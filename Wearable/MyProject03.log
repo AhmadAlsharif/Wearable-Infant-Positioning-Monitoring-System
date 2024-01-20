@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\02\MyProject03.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\02\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "MyProject03.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	MyProject03.c
+diagnostics: 83	123	Compiled Successfully	MyProject03.c
+hint: 35	1164	Variable 'read' has been eliminated by optimizer	MyProject03.c
+diagnostics: 0	127	All files Compiled in 46 ms	 
+hint: 0	1144	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)
+hint: 0	1144	Used ROM (program words): 640 (8%)  Free ROM (program words): 7552 (92%)	Used ROM (program words): 640 (8%)  Free ROM (program words): 7552 (92%)
+diagnostics: 0	125	Project Linked Successfully	MyProject03.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'MyProject03.mcppi' completed: 219 ms	 
+diagnostics: 0	103	Finished successfully: 20 Jan 2024, 21:35:16	MyProject03.mcppi

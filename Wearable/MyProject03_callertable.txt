@@ -1,0 +1,6 @@
+main
+	ADC_init
+	UART_Init
+		Div_32x32_U
+	analogread
+	UART_tx
